@@ -29,7 +29,7 @@ html {
 }
 
 hr {
-	border: 2;
+	border: 0;
 	height: 2px;
 	margin: 18px 0;
 	position: relative;
